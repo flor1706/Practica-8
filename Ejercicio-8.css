@@ -93,3 +93,114 @@ header {
 .menuPrincipal li a:hover {
     color: blueviolet;
 }
+
+.container {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container img {
+    width: 5rem;
+    padding: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.reservas {
+    background-color: #f78b14;
+    width: 10rem;
+    height: 10rem;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.comentarios {
+    background-color: #85b923;
+    width: 10rem;
+    height: 10rem;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ubicacion {
+    background-color: #f78b14;
+    width: 10rem;
+    height: 10rem;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.buffet {
+    background-color: #85b923;
+    width: 10rem;
+    height: 10rem;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ppal {
+    background-color: #fff;
+    width: 70%;
+    height: 80%;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+
+.ppal img {
+    width: 30rem;
+}
+
+.boton {
+    background-color: #f78b14;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 5rem;
+    color: aliceblue;
+    font-size: medium;
+    margin: 1rem;
+}
+
+.vinos {
+    margin: 2rem;
+    display: flex;
+}
+
+.parrafo {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: 2rem;
+    font-size: large;
+    font-weight:bold;
+}
+
+.img1 {
+    float: left;
+}
+
+.copayvino {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-bottom: 10rem;
+}
+
+.img2 {
+    float: right;
+    margin-right: 5rem;
+    margin-bottom: 15rem;
+}
+
+.copa {
+    margin: 2rem;
+    display: flex;
+}
+
+.img3 {
+    float: left;
+}
